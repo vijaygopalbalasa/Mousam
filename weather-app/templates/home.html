@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Latest compiled and minified CSS -->
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js"></script>
+    <style>
+        table,
+        th,
+        td {
+            border: 1px solid black;
+        }
+    </style>
+    <!-- Latest compiled and minified JavaScript -->
+    <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous">
+    </script> -->
+</head>
+<body>
+    <h1 style="background-color: rgb(23, 196, 187);text-align: center;padding: 0%" class="jumbotron-fluid">Weather Prediction App <img src="{{ url_for('static', filename='cloud.png') }}" ></h1>
+    <div style="padding: 1%; align-content: center">
+        <h3>ABOUT</h3>
+        <h5 style="color: indigo">This is a simple machine learning app which predicts the current day temperature and rain based on the
+            weather conditions on the past three days. We have made use of kaggle dataset for makeing this app and have managed to achieve 90% average accuracy for this app. Try out our app and please give your valuable feedback </h5>
+    </div>
+    <form method="post" class="container" >
+        <table class="table table-striped ">
+            <tr>
+                <th >Parameters</th>
+                <th >Yesterday data</th>
+                <th >Data Two days ago</th>
+                <th >Data Three days ago</th>
+            </tr>
+            <tr>
+                <td>Dew</td>
+                <td> <input type="number" name="dewptm1" SIZE="20"></td>
+                <td> <input type="number" name="dewptm2" SIZE="20"></td>
+                <td> <input type="number" name="dewptm3" SIZE="20"></td>
+            </tr>
+            <tr>
+                <td>Fog</td>
+                <td> <input type="number" name="fog1" SIZE="20"></td>
+                <td> <input type="number" name="fog2" SIZE="20"></td>
+                <td> <input type="number" name="fog3" SIZE="20"></td>
+            </tr>
+            <tr>
+                <td>Hail</td>
+                <td> <input type="number" name="hail1" SIZE="20"></td>
+                <td> <input type="number" name="hail2" SIZE="20"></td>
+                <td> <input type="number" name="hail3" SIZE="20"></td>
+            </tr>
+            <tr>
+                <td>Humidity</td>
+                <td> <input type="number" name="hum1" SIZE="20"></td>
+                <td> <input type="number" name="hum2" SIZE="20"></td>
+                <td> <input type="number" name="hum3" SIZE="20"></td>
+            </tr>
+            <tr>
+                <td>Pressure</td>
+                <td> <input type="number" name="pressure1" SIZE="20"></td>
+                <td> <input type="number" name="pressure2" SIZE="20"></td>
+                <td> <input type="number" name="pressure3" SIZE="20"></td>
+            </tr>
+            <tr>
+                <td>Rain</td>
+                <td> <input type="number" name="rain1" SIZE="20"></td>
+                <td> <input type="number" name="rain2" SIZE="20"></td>
+                <td> <input type="number" name="rain3" SIZE="20"></td>
+            </tr>
+            <tr>
+                <td>Snow</td>
+                <td> <input type="number" name="snow1" SIZE="20"></td>
+                <td> <input type="number" name="snow2" SIZE="20"></td>
+                <td> <input type="number" name="snow3" SIZE="20"></td>
+            </tr>
+            <tr>
+                <td>Temperature</td>
+                <td> <input type="number" name="temp1" SIZE="20"></td>
+                <td> <input type="number" name="temp2" SIZE="20"></td>
+                <td> <input type="number" name="temp3" SIZE="20"></td>
+            </tr>
+            <tr>
+                <td>Tornado</td>
+                <td> <input type="number" name="tornado1" SIZE="20"></td>
+                <td> <input type="number" name="tornado2" SIZE="20"></td>
+                <td> <input type="number" name="tornado3" SIZE="20"></td>
+            </tr>
+            <tr>
+                <td>Wind Direction</td>
+                <td> <input type="number" name="wdird1" SIZE="20"></td>
+                <td> <input type="number" name="wdird2" SIZE="20"></td>
+                <td> <input type="number" name="wdird3" SIZE="20"></td>
+            </tr>
+
+        </table>
+<p><input type="submit" value="Submit" class="btn btn-primary btn-lg" name="submit"></p>
+    </form>
+
+</body>
+
+</html>
