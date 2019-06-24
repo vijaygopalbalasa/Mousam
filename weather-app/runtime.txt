@@ -1,1 +1,1 @@
-echo "python-3.6.0" > runtime.txt
+echo "python-3.6.8" > runtime.txt
