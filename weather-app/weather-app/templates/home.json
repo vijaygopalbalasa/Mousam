@@ -1,0 +1,32 @@
+[
+  {
+    "Parameters": "Dew"
+  },
+  {
+    "Parameters": "Fog"
+  },
+  {
+    "Parameters": "Hail"
+  },
+  {
+    "Parameters": "Humidity"
+  },
+  {
+    "Parameters": "Pressure"
+  },
+  {
+    "Parameters": "Rain"
+  },
+  {
+    "Parameters": "Snow"
+  },
+  {
+    "Parameters": "Temperature"
+  },
+  {
+    "Parameters": "Tornado"
+  },
+  {
+    "Parameters": "Wind Direction"
+  }
+]
