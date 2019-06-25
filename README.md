@@ -49,7 +49,7 @@ Hosting with heroku is pretty simple, just follow the following steps:
 
 ## Our App
 
-Our weather prediction app is available at https://www.mousam-webapp.herokuapp.com 
+Our weather prediction app is available at https://mousam-webapp.herokuapp.com 
 
 For any doubts drop an email to me
           
