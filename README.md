@@ -23,4 +23,5 @@
 
 ## Hosting
 
-<img src="https://raw.githubusercontent.com/Raks-coder/Mousam/master/heroku.png" width="500">
+<img src="https://raw.githubusercontent.com/Raks-coder/Mousam/master/heroku.png" width="440">
+
