@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Raks-coder/Mousam/master/cloud.jpg" width="400">
+<img src="https://raw.githubusercontent.com/Raks-coder/Mousam/master/cloud.jpg" width="550">
 
 # Mousam
 
@@ -20,3 +20,7 @@
 <img src="https://raw.githubusercontent.com/Raks-coder/Mousam/master/temp-hum.PNG" width="650">
 
 <img src="https://raw.githubusercontent.com/Raks-coder/Mousam/master/dew-temp.PNG" width="650">
+
+## Hosting
+
+<img src="https://raw.githubusercontent.com/Raks-coder/Mousam/master/heroku.png" width="550">
