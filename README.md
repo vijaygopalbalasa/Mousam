@@ -14,3 +14,7 @@
 > Our Parameter for calling a day as hot is if the average temperature for the day is above 25 degree celsius
 
 ## Graphs and Plots
+
+#### Some of my graphical analysis is shown below : 
+
+<img src="https://raw.githubusercontent.com/Raks-coder/Mousam/master/temp-hum.png" width="400">
