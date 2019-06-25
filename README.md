@@ -17,6 +17,6 @@
 
 #### Some of my graphical analysis is shown below : 
 
-<img src="https://raw.githubusercontent.com/Raks-coder/Mousam/master/temp-hum.PNG" width="400">
+<img src="https://raw.githubusercontent.com/Raks-coder/Mousam/master/temp-hum.PNG" width="550">
 
-<img src="https://raw.githubusercontent.com/Raks-coder/Mousam/master/dew-temp.PNG" width="400">
+<img src="https://raw.githubusercontent.com/Raks-coder/Mousam/master/dew-temp.PNG" width="550">
