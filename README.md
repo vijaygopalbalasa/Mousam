@@ -21,7 +21,35 @@
 
 <img src="https://raw.githubusercontent.com/Raks-coder/Mousam/master/dew-temp.PNG" width="650">
 
-## Hosting
+## Hosting with Flask and Git
 
 <img src="https://raw.githubusercontent.com/Raks-coder/Mousam/master/heroku.png" width="350">
 
+Hosting with heroku is pretty simple, just follow the following steps:
+
+1. `Heroku Login` - This will open up the browser through which you can log in to your heroku account
+
+2. `git clone (your repo link)` - This clones your repo
+
+3. `cd` into the folder of interest and use the following commands:-
+
+          1. `git init` - It will initialize an empty repository
+          
+          2. `git add .` - It will add the files to the repository
+          
+          3. `git commit` - It will commit the changes
+          
+4. Use `heroku create (your desirable app name)` and then use `heroku git:remote -a (the git link generated from heroku create command)`
+
+5. Finally use `git push heroku master`
+
+<b>NOTE</b>
+1. Add a requirements.txt to your repository 
+2. Add Procfile to your repository
+
+## Our App
+
+Our weather prediction app is available at https://www.mousam-webapp.herokuapp.com 
+
+For any doubts drop an email to me
+          
