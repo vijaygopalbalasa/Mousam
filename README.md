@@ -4,9 +4,13 @@
 
 ## About 
 > This is a machine learning based application which makes use of the delhi weather kaggle dataset. 
+
 > The application makes use of lagged datasets
+
 > We have made use of logistic regression and linear regression for the prediction of rain and temperature respectively
+
 > The application predicts average temperature for the day in degree celsius
+
 > Our Parameter for calling a day as hot is if the average temperature for the day is above 25 degree celsius
 
 ## Graphs and Plots
