@@ -1,2 +1,2 @@
-![alt text](https://raw.githubusercontent.com/Raks-coder/Mousam/master/cloud.png)
+![alt text](https://raw.githubusercontent.com/Raks-coder/Mousam/master/cloud.jpg)
 # Mousam
