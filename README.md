@@ -33,11 +33,11 @@ Hosting with heroku is pretty simple, just follow the following steps:
 
 3. `cd` into the folder of interest and use the following commands:-
 
-          1. `git init` - It will initialize an empty repository
+          1. git init - It will initialize an empty repository
           
-          2. `git add .` - It will add the files to the repository
+          2. git add . - It will add the files to the repository
           
-          3. `git commit` - It will commit the changes
+          3. git commit - It will commit the changes
           
 4. Use `heroku create (your desirable app name)` and then use `heroku git:remote -a (the git link generated from heroku create command)`
 
