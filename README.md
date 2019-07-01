@@ -37,7 +37,7 @@ Hosting with heroku is pretty simple, just follow the following steps:
           
           2. git add . - It will add the files to the repository
           
-          3. git commit - It will commit the changes
+          3. git commit -m "message" - It will commit the changes
           
 4. Use `heroku create (your desirable app name)` and then use `heroku git:remote -a (the git link generated from heroku create command)`
 
