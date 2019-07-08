@@ -13,6 +13,8 @@
 
 > Our Parameter for calling a day as hot is if the average temperature for the day is above 25 degree celsius
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 ## Graphs and Plots
 
 #### Some of my graphical analysis is shown below : 
