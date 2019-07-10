@@ -17,6 +17,8 @@
 
 [![Website monip.org](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]()
 
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
 ## Graphs and Plots
 
 #### Some of my graphical analysis is shown below : 
