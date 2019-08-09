@@ -58,4 +58,6 @@ Hosting with heroku is pretty simple, just follow the following steps:
 Our weather prediction app is available at https://mousam-webapp.herokuapp.com 
 
 For any doubts drop an email to me
+
+[![Rakshit Malhotra](https://img.shields.io/badge/Thank-You-orange.svg?style=for-the-badge)]
           
