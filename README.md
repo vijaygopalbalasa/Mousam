@@ -59,5 +59,5 @@ Our weather prediction app is available at https://mousam-webapp.herokuapp.com
 
 For any doubts drop an email to me
 
-[![Rakshit Malhotra](https://img.shields.io/badge/Thank-You-orange.svg?style=for-the-badge)]
+![Rakshit Malhotra](https://img.shields.io/badge/Thank-You-orange.svg?style=for-the-badge)
           
