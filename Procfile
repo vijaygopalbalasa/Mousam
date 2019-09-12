@@ -1,1 +1,1 @@
-web: gunicorn amotest1:app
+web gunicorn app:app --log-file=-
